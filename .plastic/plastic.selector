@@ -1,0 +1,4 @@
+repository "CardGame/CardGame 2026-01-30_14-09-03@6872302041926@cloud"
+  path "/"
+    br "/main"
+    co "/main"
